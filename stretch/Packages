@@ -1,0 +1,18 @@
+Package: linux-image-5.8.3-kirkwood-tld-1
+Source: linux-5.8.3-kirkwood-tld-1
+Version: 1.0
+Architecture: armel
+Maintainer: bodhi <mibodhi@gmail.com>
+Installed-Size: 92700
+Filename: ./linux-image-5.8.3-kirkwood-tld-1_1.0_armel.deb
+Size: 21640376
+MD5sum: 158ace44632109746c1870cdbe97d1f8
+SHA1: f9a241a18804e140766ec32c94bbb9f52dff67dd
+SHA256: b73d8b8c3559b1895a668bc3db309b36e552d7346d27774a7985e0b31a116237
+Section: kernel
+Priority: optional
+Homepage: http://www.kernel.org/
+Description: Linux kernel, version 5.8.3-kirkwood-tld-1
+ This package contains the Linux kernel, modules and corresponding other
+ files, version: 5.8.3-kirkwood-tld-1.
+
